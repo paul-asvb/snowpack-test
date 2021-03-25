@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.5",
+    "snowpack": "^3.0.1"
+  },
+  "dependencies": {
+    "@ag-grid-community/all-modules": "^25.1.0",
+    "@ag-grid-community/client-side-row-model": "^25.1.0",
+    "@ag-grid-community/core": "^25.1.0"
+  }
+}
